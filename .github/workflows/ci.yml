@@ -1,5 +1,5 @@
 permissions:
- contents: write
+  contents: write
 name: Python CI
 on: [push]
 
